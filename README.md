@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sigma-dna
-- 👀 I’m interested in statistic,finances, front end development and design.
+- 👀 I’m interested in statistic, finances, front end development and design.
 - 🌱 I’m currently learning statistic, excel, R, English and web development.
 - 💞️ I’m looking to collaborate on anything i can.
 - 📫 How to reach me: @dna.br (Instagram)
